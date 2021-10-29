@@ -30,11 +30,8 @@ A video of the code running
 
 To upload the code to the chip, 
 
-run this code on atml studio and build it by pressing keyboad shortcut f7
-```    
+run this code on atml studio and build it by pressing keyboad shortcut f7    
 The following code compiles the code to a .hex file where you made a project files
-```
 and then open avr dudes and load the hex file and upload to atmega328p 
-```
 
 
