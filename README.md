@@ -1,3 +1,4 @@
 # AVR-ATMEGA-328P
 IN THIS REPOSITORY I WILL UPLOAD CODE FOR BASIC USE OF ATMEGA 328P ARDUINO UNO 
 # here is the samiluation screenshot 
+![PROTESUS SAMIULATION SCREENSHOT](https://user-images.githubusercontent.com/46841978/139435939-1d9ce438-40f4-48e8-888a-655a7fbbe2c3.png)
